@@ -2,7 +2,7 @@
 
 ![Header Image](url-to-header-image)
 
-I'm a [Your Profession/Role] passionate about [Your Interests]. I love working on open-source projects and contributing to the community.
+I'm a Software Developer passionate about [Your Interests]. I love working on open-source projects and contributing to the community.
 
 ## 🔧 Technologies & Tools
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -19,4 +19,4 @@ I'm a [Your Profession/Role] passionate about [Your Interests]. I love working o
 - **[Project Name](link-to-project)**: Brief description of the project.
 - **[Another Project](link-to-project)**: Brief description of the project.
 
-Feel free to reach out to me on [LinkedIn](link-to-linkedin) or follow me on [Twitter](link-to-twitter).
+Feel free to reach out to me on [LinkedIn](link-to-linkedin) or follow me on [Twitter](https://x.com/Aaronthapaa).
