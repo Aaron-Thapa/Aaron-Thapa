@@ -1,6 +1,6 @@
 # Hi there, I'm Aaron! 👋
 
-![Header Image](https://github.com/Aaron-Thapa/Aaron-Thapa/blob/master/developer-8764523_1280.jpg)
+![Header Image](https://github.com/Aaron-Thapa/Aaron-Thapa/blob/master/developer-8764523_1281.jpg)
 
 ## 👨‍💻 Software Developer | Open-Source Contributor  
 
