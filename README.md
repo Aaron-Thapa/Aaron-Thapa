@@ -19,4 +19,4 @@ I'm a Software Developer passionate about [Your Interests]. I love working on op
 - **[Project Name](link-to-project)**: Brief description of the project.
 - **[Another Project](link-to-project)**: Brief description of the project.
 
-Feel free to reach out to me on [LinkedIn](link-to-linkedin) or follow me on [Twitter](https://x.com/Aaronthapaa).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/anup-thapa-443231139/) or follow me on [Twitter](https://x.com/Aaronthapaa).
